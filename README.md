@@ -1,9 +1,10 @@
 # Multi-Agent Customer Support Automation System
 
-## Project Overview
-This project is a Multi-Agent AI Customer Support System built using LangGraph, LangChain, Groq LLM, ChromaDB, and SQLite.
+## Overview
 
-The system automatically classifies customer queries, routes them to the appropriate department, retrieves relevant information using Retrieval-Augmented Generation (RAG), stores previous conversations in SQLite memory, supports Human-in-the-Loop approval for sensitive requests, and generates professional responses through a Supervisor Agent.
+A multi-agent AI-powered customer support platform that automates customer query handling through intelligent routing, retrieval-augmented generation (RAG), conversation memory, and human approval workflows.
+
+The system classifies customer queries, routes them to specialized support agents, retrieves relevant information from organizational knowledge bases, stores conversation history using SQLite, and generates professional responses using Large Language Models.
 
 ---
 
