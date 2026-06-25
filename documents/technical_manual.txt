@@ -1,0 +1,16 @@
+Technical Manual
+
+Common Login Issue:
+Reset your password using the Forgot Password option.
+
+Application Crash:
+Clear application cache and restart the application.
+
+Installation Error:
+Ensure Python 3.10 or above is installed.
+
+Configuration Issue:
+Verify the configuration file before launching the application.
+
+File Upload Error:
+Check file size and internet connection.
